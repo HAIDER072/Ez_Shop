@@ -11,8 +11,8 @@ import {getAuth} from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBRTpQRzGsDaAm2HUnfqQag9LmbTqL5GTM",
-  authDomain: "ezshop-9e204.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "ezshop-9e204",
   storageBucket: "ezshop-9e204.firebasestorage.app",
   messagingSenderId: "144128655020",
