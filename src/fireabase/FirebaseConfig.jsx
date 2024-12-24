@@ -11,8 +11,6 @@ import { getAuth } from 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  // apiKey: import.meta.env.REACT_APP_FIREBASEAPI,
-  // authDomain: import.meta.env.REACT_APP_AUTHDOMAIN,
   apiKey: "AIzaSyBRTpQRzGsDaAm2HUnfqQag9LmbTqL5GTM",
   authDomain: "ezshop-9e204.firebaseapp.com",
   projectId: "ezshop-9e204",
